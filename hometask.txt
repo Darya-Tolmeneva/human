@@ -2,3 +2,15 @@ Create release branch with human (master) in boots (boots branch) and hat (hat b
 моя ветка
 Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 ветка demo
+коммиты (11 штук):
+._.
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'remotes/origin/hat'
+Merge remote-tracking branch 'remotes/origin/buttons' into boots_buttons
+Merge remote-tracking branch 'remotes/origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
